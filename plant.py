@@ -1,4 +1,4 @@
-# import module to write testcases for the code http://www.google.com
+# import module to write testcases for the code https://www.google.com
 import unittest
 # variables declarations
 transparent = True
